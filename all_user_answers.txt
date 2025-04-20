@@ -1,0 +1,49 @@
+Mùa xuân (tháng 3 - 5)#Núi/Rừng#Du lịch khám phá thiên nhiên|YokDon,BachMa,Bidoup,ChuMomRay,PuHuong 
+Mùa xuân (tháng 3 - 5)#Núi/Rừng#Du lịch văn hóa, lịch sử|LangSon,ThaiNguyen,HoaBinh,SonLa,QuangNgai
+Mùa xuân (tháng 3 - 5)#Núi/Rừng#Du lịch nghỉ dưỡng, thư giãn|TamDao,TamNong,YenTu, Y Ty
+Mùa xuân (tháng 3 - 5)#Biển#Du lịch khám phá thiên nhiên|HaTien,HonSon,UMinhThuong
+Mùa xuân (tháng 3 - 5)#Biển#Du lịch văn hóa, lịch sử|BienNgoc,NhatLeCoKinh,DaNangXuanKhaoCo,QuyNhonBienSu,PhuQuoc
+Mùa xuân (tháng 3 - 5)#Biển#Du lịch nghỉ dưỡng, thư giãn|ConDao,NhaTrang,LongHai
+Mùa xuân (tháng 3 - 5)#Thành phố#Du lịch khám phá thiên nhiên|LongXuyen,CanTho,RachGia,VinhLong,MyTho 
+Mùa xuân (tháng 3 - 5)#Thành phố#Du lịch văn hóa, lịch sử|HaNoi,Hue,HoiAn,DaLat,TPHCM
+Mùa xuân (tháng 3 - 5)#Thành phố#Du lịch nghỉ dưỡng, thư giãn|DaNang,QuyNhon
+Mùa xuân (tháng 3 - 5)#Cao nguyên#Du lịch khám phá thiên nhiên|KonPlong,BaoLoc,LacDuong  
+Mùa xuân (tháng 3 - 5)#Cao nguyên#Du lịch văn hóa, lịch sử|MocChau,BacHa
+Mùa xuân (tháng 3 - 5)#Cao nguyên#Du lịch nghỉ dưỡng, thư giãn|Pleiku,BuonMeThuot,MangDen
+Mùa hè (tháng 6 - 8)#Núi/Rừng#Du lịch khám phá thiên nhiên|YokDon,BachMa,Bidoup,ChuMomRay,PuHuong 
+Mùa hè (tháng 6 - 8)#Núi/Rừng#Du lịch văn hóa, lịch sử|LangSon,ThaiNguyen,HoaBinh,SonLa,QuangNgai
+Mùa hè (tháng 6 - 8)#Núi/Rừng#Du lịch nghỉ dưỡng, thư giãn|TamDao,TamNong,YenTu, Y Ty
+Mùa hè (tháng 6 - 8)#Biển#Du lịch khám phá thiên nhiên|HaTien,HonSon,UMinhThuong
+Mùa hè (tháng 6 - 8)#Biển#Du lịch văn hóa, lịch sử|BienNgoc,NhatLeCoKinh,DaNangXuanKhaoCo,QuyNhonBienSu,PhuQuoc
+Mùa hè (tháng 6 - 8)#Biển#Du lịch nghỉ dưỡng, thư giãn|ConDao,NhaTrang,LongHai
+Mùa hè (tháng 6 - 8)#Thành phố#Du lịch khám phá thiên nhiên|LongXuyen,CanTho,RachGia,VinhLong,MyTho 
+Mùa hè (tháng 6 - 8)#Thành phố#Du lịch văn hóa, lịch sử|HaNoi,Hue,HoiAn,DaLat,TPHCM
+Mùa hè (tháng 6 - 8)#Thành phố#Du lịch nghỉ dưỡng, thư giãn|DaNang,QuyNhon
+Mùa hè (tháng 6 - 8)#Cao nguyên#Du lịch khám phá thiên nhiên|KonPlong,BaoLoc,LacDuong
+Mùa hè (tháng 6 - 8)#Cao nguyên#Du lịch văn hóa, lịch sử|MocChau,BacHa
+Mùa hè (tháng 6 - 8)#Cao nguyên#Du lịch nghỉ dưỡng, thư giãn|Pleiku,BuonMeThuot,MangDen
+Mùa thu (tháng 9 - 11)#Núi/Rừng#Du lịch khám phá thiên nhiên|YokDon,BachMa,Bidoup,ChuMomRay,PuHuong
+Mùa thu (tháng 9 - 11)#Núi/Rừng#Du lịch văn hóa, lịch sử|LangSon,ThaiNguyen,HoaBinh,SonLa,QuangNgai
+Mùa thu (tháng 9 - 11)#Núi/Rừng#Du lịch nghỉ dưỡng, thư giãn|TamDao,TamNong,YenTu, Y Ty
+Mùa thu (tháng 9 - 11)#Biển#Du lịch khám phá thiên nhiên|HaTien,HonSon,UMinhThuong
+Mùa thu (tháng 9 - 11)#Biển#Du lịch văn hóa, lịch sử|BienNgoc,NhatLeCoKinh,DaNangXuanKhaoCo,QuyNhonBienSu,PhuQuoc
+Mùa thu (tháng 9 - 11)#Biển#Du lịch nghỉ dưỡng, thư giãn|ConDao,NhaTrang,LongHai
+Mùa thu (tháng 9 - 11)#Thành phố#Du lịch khám phá thiên nhiên|LongXuyen,CanTho,RachGia,VinhLong,MyTho 
+Mùa thu (tháng 9 - 11)#Thành phố#Du lịch văn hóa, lịch sử|HaNoi,Hue,HoiAn,DaLat,TPHCM
+Mùa thu (tháng 9 - 11)#Thành phố#Du lịch nghỉ dưỡng, thư giãn|DaNang,QuyNhon
+Mùa thu (tháng 9 - 11)#Cao nguyên#Du lịch khám phá thiên nhiên|KonPlong,BaoLoc,LacDuong  
+Mùa thu (tháng 9 - 11)#Cao nguyên#Du lịch văn hóa, lịch sử|MocChau,BacHa
+Mùa thu (tháng 9 - 11)#Cao nguyên#Du lịch nghỉ dưỡng, thư giãn|Pleiku,BuonMeThuot,MangDen
+Mùa đông (tháng 12 - 2)#Núi/Rừng#Du lịch khám phá thiên nhiên|YokDon,BachMa,Bidoup,ChuMomRay,PuHuong
+Mùa đông (tháng 12 - 2)#Núi/Rừng#Du lịch văn hóa, lịch sử|LangSon,ThaiNguyen,HoaBinh,SonLa,QuangNgai
+Mùa đông (tháng 12 - 2)#Núi/Rừng#Du lịch nghỉ dưỡng, thư giãn|TamDao,TamNong,YenTu, Y Ty
+Mùa đông (tháng 12 - 2)#Biển#Du lịch khám phá thiên nhiên|HaTien,HonSon,UMinhThuong
+Mùa đông (tháng 12 - 2)#Biển#Du lịch văn hóa, lịch sử|BienNgoc,NhatLeCoKinh,DaNangXuanKhaoCo,QuyNhonBienSu,PhuQuoc
+Mùa đông (tháng 12 - 2)#Biển#Du lịch nghỉ dưỡng, thư giãn|ConDao,NhaTrang,LongHai
+Mùa đông (tháng 12 - 2)#Thành phố#Du lịch khám phá thiên nhiên|LongXuyen,CanTho,RachGia,VinhLong,MyTho
+Mùa đông (tháng 12 - 2)#Thành phố#Du lịch văn hóa, lịch sử|HaNoi,Hue,HoiAn,DaLat,TPHCM
+Mùa đông (tháng 12 - 2)#Thành phố#Du lịch nghỉ dưỡng, thư giãn|DaNang,QuyNhon
+Mùa đông (tháng 12 - 2)#Cao nguyên#Du lịch khám phá thiên nhiên|KonPlong,BaoLoc,LacDuong  
+Mùa đông (tháng 12 - 2)#Cao nguyên#Du lịch văn hóa, lịch sử|MocChau,BacHa
+Mùa đông (tháng 12 - 2)#Cao nguyên#Du lịch nghỉ dưỡng, thư giãn|Pleiku,BuonMeThuot,MangDen
+
